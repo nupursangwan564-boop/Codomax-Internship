@@ -1,87 +1,110 @@
-# Codomax Internship
+# AI & Data Science Learning Journey
 
-## 🚀 Internship Progress
+This repository contains my work and submissions for the **AI & Data Science learning modules**, covering Data Analysis, Data Visualization, and Machine Learning fundamentals.
 
-### ✅ Prerequisite Onboarding
-**Duration:** Day 1 – Day 4
+## 📚 Modules Covered
 
-#### Objective
-To complete the initial onboarding activities and understand the internship workflow.
-
-#### Tasks Completed
-- Downloaded the Codomax internship offer letter.
-- Shared the offer letter on LinkedIn.
-- Tagged Codomax Digital Solutions in the LinkedIn post.
-- Submitted the LinkedIn post link as the required deliverable.
-
-#### Learning
-- Learned how to professionally present and share internship achievements on LinkedIn.
-- Understood the importance of maintaining a professional online presence.
-
----
-
-### ✅ Module 1 – Introduction to AI & Python
-**Duration:** Day 1 – Day 4  
+### Module 3 — Data Analysis & Visualization
+**Duration:** Day 9 – Day 12  
 **Priority:** High
 
-#### Objective
-To understand the fundamentals of Artificial Intelligence, Machine Learning, and Python programming.
+#### What I Learned
+- Working with datasets using **Pandas** and **NumPy**
+- Loading and exploring sample datasets
+- Performing basic data cleaning
+- Performing simple data analysis
+- Creating data visualizations using **Matplotlib**
+- Creating:
+  - Bar charts
+  - Line charts
+  - Pie charts
 
-#### Topics Covered
-- Basics of Artificial Intelligence
-- Introduction to Machine Learning
-- Difference between AI, ML, and Deep Learning
-- Real-world applications of AI
-- Python programming fundamentals
-- Variables and data types
-- Conditional statements
-- Loops
-- Functions
-- Lists
-- Writing beginner-friendly Python programs
-
-#### Tasks Completed
-- Studied the fundamental concepts of AI and Python.
-- Practiced basic Python programming concepts.
-- Implemented beginner-level Python programs.
-- Created and submitted learning notes and GitHub repository.
-
-#### Learning
-This module strengthened my understanding of AI fundamentals and Python programming. I also gained practical experience in implementing basic Python concepts.
+#### Tools & Libraries
+- Python
+- NumPy
+- Pandas
+- Matplotlib
+- Google Colab
 
 ---
 
-### ✅ Module 2 – Python Mini Project
-**Duration:** Day 5 – Day 8  
+### Module 4 — Machine Learning Fundamentals
+**Duration:** Day 13 – Day 16  
 **Priority:** High
 
-#### Objective
-To apply Python programming concepts by developing practical mini projects.
+#### What I Learned
+- Understanding the basic **Machine Learning workflow**
+- Preparing data for Machine Learning
+- Training the first Machine Learning models using **Scikit-learn**
+- Working with beginner-friendly datasets
+- Understanding model predictions and results
+- Testing a trained model and evaluating its predictions
 
-#### Projects Completed
-- 🧮 Multi-Number Calculator
-- 🎓 Student Grade Calculator
-- 🎯 Number Guessing Game
+#### Practice Datasets / Projects
+- Iris Flower Classification
+- House Price Prediction
+- Student Score Prediction
 
-#### Tasks Completed
-- Applied Python concepts to build functional mini projects.
-- Practiced functions, loops, conditional statements, lists, and user input.
-- Organized and uploaded the completed project code to GitHub.
-- Submitted the GitHub repository as the required deliverable.
+#### Tools & Libraries
+- Python
+- Pandas
+- NumPy
+- Scikit-learn
+- Google Colab
 
-#### Learning
-This module helped me convert theoretical Python concepts into practical applications. I improved my problem-solving, logical thinking, and coding skills through hands-on project development.
+## 🛠️ Technologies Used
 
----
+| Technology | Purpose |
+|---|---|
+| Python | Programming language |
+| NumPy | Numerical and array operations |
+| Pandas | Data manipulation and analysis |
+| Matplotlib | Data visualization |
+| Scikit-learn | Machine Learning |
+| Google Colab | Coding and experimentation |
 
-## 📌 Skills Practiced
+## 📂 Repository Structure
 
-- Python Programming
-- Artificial Intelligence Fundamentals
-- Problem Solving
-- Logical Thinking
-- Functions & Loops
-- Conditional Statements
-- Lists & Data Handling
-- GitHub & Repository Management
-- Professional LinkedIn Presence
+```text
+AI-Data-Science-Learning/
+│
+├── Module-3-Data-Analysis-Visualization/
+│   ├── data_analysis.ipynb
+│   └── README.md
+│
+├── Module-4-Machine-Learning/
+│   ├── machine_learning.ipynb
+│   └── README.md
+│
+└── README.md
+```
+
+## 🎯 Learning Outcomes
+
+By completing these modules, I gained practical experience in:
+
+- Understanding and exploring datasets
+- Cleaning and analyzing data
+- Visualizing data to identify patterns and trends
+- Understanding the Machine Learning workflow
+- Training basic ML models
+- Making predictions using Scikit-learn
+- Interpreting and testing model results
+
+## 🚀 Future Scope
+
+I plan to build on these fundamentals by learning:
+
+- Advanced Data Analysis
+- Exploratory Data Analysis (EDA)
+- Feature Engineering
+- Model Evaluation
+- Regression and Classification
+- Advanced Machine Learning
+- Deep Learning
+
+## 👩‍💻 Author
+
+**Nupur**
+
+B.Tech — Artificial Intelligence & Data Science
