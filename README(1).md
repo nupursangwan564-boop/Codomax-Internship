@@ -1,3 +1,4 @@
+MODULE 5
 # Coding Practice Tracker
 
 A simple **Python-based Coding Practice Tracker** that helps users
